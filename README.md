@@ -1,5 +1,5 @@
 # DS24
-![img](https://www.naukri.com/campus/career-guidance/wp-content/uploads/2019/11/data-science-interview-questions-freshers.jpg)
+![img](blob:https://www.bing.com/7b00d906-0462-461e-8c7c-f93ebe5ff654)
 
 This repository is a collection of my Kaggle notebooks and other data science projects. Enjoy! 
 
